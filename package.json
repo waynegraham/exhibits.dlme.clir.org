@@ -1,0 +1,25 @@
+{
+  "name": "exhibits.dlme.clir.org",
+  "version": "1.0.0",
+  "main": "gulpfile.js",
+  "description": "Digital Library of the Middle East Jekyll Exhibits",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/waynegraham/exhibits.dlme.clir.org.git"
+  },
+  "author": "Wayne Graham",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/waynegraham/exhibits.dlme.clir.org/issues"
+  },
+  "homepage": "https://github.com/waynegraham/exhibits.dlme.clir.org#readme",
+  "devDependencies": {
+    "browser-sync": "^2.18.13",
+    "gulp-autoprefixer": "^4.0.0",
+    "gulp-sass": "^3.1.0",
+    "node-sass": "^4.5.3"
+  }
+}
